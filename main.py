@@ -12,9 +12,9 @@ import os
 
 # Configure Cloudinary
 cloudinary.config(
-    cloud_name="your_cloud_name",
-    api_key="your_api_key",
-    api_secret="your_secret",
+    cloud_name="ddqt2h08a",
+    api_key="812972373143139",
+    api_secret="lOIlsazZF6_Cry5l1Ta5Y0INf9w",
     secure=True
 )
 
